@@ -40,16 +40,16 @@ Desktop/
 
 🔐 Permissions & Requirements
 
-Linux system using systemd
-Docker service managed by systemd
-journalctl available
-Root privileges required only for log cleanup
+1. Linux system using systemd
+2. Docker service managed by systemd
+3. journalctl available
+4. Root privileges required only for log cleanup
 
 🛡 Defensive Bash Practices Used
 
-set -euo pipefail
-Quoted variables to prevent word splitting
-Explicit exit codes
-Root privilege checks using $EUID
-Safe environment variable handling ($SUDO_USER)
-Timestamped filenames to prevent overwrites
+1. set -euo pipefail
+2. Quoted variables to prevent word splitting
+3. Explicit exit codes
+4. Root privilege checks using $EUID
+5. Safe environment variable handling ($SUDO_USER)
+6. Timestamped filenames to prevent overwrites
