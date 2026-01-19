@@ -1,5 +1,5 @@
 [![ShellCheck](https://img.shields.io/badge/shellcheck-passed-brightgreen)](https://www.shellcheck.net/)
-[![Run on GitHub](https://img.shields.io/badge/run%20script-GitHub-blue)](https://github.com/R-Kx/Docker-Log-Archiver-Bash/blob/main/docker.sh)
+[![Run on GitHub](https://img.shields.io/badge/run%20script-GitHub-blue)](https://github.com/R-Kx/Docker-Log-Archiver-Bash/blob/main/docker-logs-archiver.sh)
 
 
 
